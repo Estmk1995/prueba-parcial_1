@@ -1,0 +1,21 @@
+body{
+    background-color: #06283D;
+}
+img{
+    width: 400px;
+    height: 105px;
+}
+#clima{
+    color: #06283D; 
+}
+.boton{
+    display: flex;
+    border-radius: 20px;
+    align-items: start;
+}
+.card{
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+

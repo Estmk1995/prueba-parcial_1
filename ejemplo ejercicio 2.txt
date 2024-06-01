@@ -1,0 +1,13 @@
+var persona1 = new Persona("Bob", "Smith", 32, "hombre");
+
+function Persona(nombre, apellido, edad, genero) {
+    
+    this.nombre = nombre;
+    this.apellido = apellido;
+    this.edad = edad;
+    this.genero = genero;
+}
+
+persona1.nombre
+persona1.edad
+persona1.apellido
